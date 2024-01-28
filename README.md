@@ -44,3 +44,4 @@ Whenever you feel ready for it, go through the questions below. Note that in man
 
 The compressed answers to this questions are found in the following presentation:
 https://docs.google.com/presentation/d/1Bk6wpJOkqi8lIFDTfR9_3nu6Qpnte75mUblj_CyQKbs/edit#slide=id.g2933d66cc14_0_10
+# git_practice
