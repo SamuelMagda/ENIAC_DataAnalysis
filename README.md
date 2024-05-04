@@ -41,8 +41,8 @@ Whenever you feel ready for it, go through the questions below. Note that in man
 - How many orders are delivered on time vs orders delivered with a delay?
 - Is there any pattern for delayed orders, e.g. big products being delayed more often?
 
+The approach for answering the bussiness questions begines with detailed data analysis to uncover key insights. 
+These insights then guide the responses to important business questions, ensuring that the strategies are well-informed and effective.
 
 The compressed answers to this questions are found in the following presentation:
-https://docs.google.com/presentation/d/1Bk6wpJOkqi8lIFDTfR9_3nu6Qpnte75mUblj_CyQKbs/edit#slide=id.g2933d66cc14_0_10
-# git_practice
-# git_practice
+https://bit.ly/ENIACs-expansion
