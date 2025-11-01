@@ -48,11 +48,14 @@ These findings suggest that while **MAGIST** has infrastructure advantages, it i
 ---
 
 ## Repository Structure
-ENIAC_DataAnalysis/
-• Analysing_the_Data.sql
-• Business_Questions.sql
-• ENIACs expansion in Brazil.pptx
-• README.md
+| File                                | Description                          |
+| ----------------------------------- | ------------------------------------ |
+| **ENIAC_DataAnalysis/**             | Main project directory               |
+| ├── Analysing_the_Data.sql          | SQL queries for dataset exploration  |
+| ├── Business_Questions.sql          | Business-oriented SQL analysis       |
+| ├── ENIACs expansion in Brazil.pptx | Final presentation (market insights) |
+| └── README.md                       | Project documentation                |
+
 
 ---
 
