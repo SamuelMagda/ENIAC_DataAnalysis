@@ -1,3 +1,5 @@
+> Status: Archived — Early Data Analysis project (MySQL & Tableau)
+
 # ENIAC – Market Expansion Analysis (MySQL & Tableau)
 
 Business data analysis project developed during the Data Science program at **WBS Coding School**, exploring the potential partnership between **ENIAC**, a European tech accessories retailer, and **MAGIST**, a Brazilian e-commerce platform.
